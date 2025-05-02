@@ -1,3 +1,68 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="344.5639097744361 330.27819548872174 111.73684210526318 91.21804511278197" width="53.87" height="43.61"><defs><path d="M453.3 331.28L453.3 359.85L388.64 418.5L388.64 388.42L453.3 331.28Z" id="aFZf6T5ED"></path><linearGradient id="gradientb2ThqnP5Op" gradientUnits="userSpaceOnUse" x1="420.97" y1="331.28" x2="420.97" y2="418.5"><stop style="stop-color: #06b6d4;stop-opacity: 1" offset="0%"></stop><stop style="stop-color: #67e8f9;stop-opacity: 1" offset="100%"></stop></linearGradient><path d="M410.23 331.28L410.23 359.85L345.56 418.5L345.56 388.42L410.23 331.28Z" id="a9fehgwfM"></path><linearGradient id="gradientk1wNV9Ostb" gradientUnits="userSpaceOnUse" x1="377.89" y1="331.28" x2="377.89" y2="418.5"><stop style="stop-color: #06b6d4;stop-opacity: 1" offset="0%"></stop><stop style="stop-color: #67e8f9;stop-opacity: 1" offset="100%"></stop></linearGradient></defs><g><g><use xlink:href="#aFZf6T5ED" opacity="1" fill="url(#gradientb2ThqnP5Op)"></use></g><g><use xlink:href="#a9fehgwfM" opacity="1" fill="url(#gradientk1wNV9Ostb)"></use></g></g></svg>
+<svg
+   version="1.1"
+   preserveAspectRatio="xMidYMid"
+   viewBox="344.56391 330.2782 104.43148 90.390898"
+   width="50.347977"
+   height="43.214554"
+   id="svg571"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview573"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="4"
+     inkscape:cx="36.125"
+     inkscape:cy="60.75"
+     inkscape:window-width="1440"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g697" />
+  <defs
+     id="defs559" />
+  <g
+     id="g697"
+     transform="matrix(2.3977661,0,0,2.3977661,245.56184,-267.27545)">
+    <rect
+       style="fill:none;fill-opacity:1;stroke-width:3.51591;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:3.51591, 14.0636;paint-order:markers stroke fill"
+       id="rect378"
+       width="66.298157"
+       height="66.298157"
+       x="41.388035"
+       y="248.64801"
+       inkscape:export-filename="..\public\static\favicons\apple-touch-icon.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="font-size:31.75px;line-height:0.8;font-family:'Carter One';-inkscape-font-specification:'Carter One';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:2.15216"
+       d="m 80.566102,250.09806 c -0.004,0.36475 0.01423,0.94517 0.05752,1.74095 0.118634,4.07288 0.404538,8.1386 0.467881,12.21395 0.03083,0.89436 0.05386,1.60783 0.06804,2.14033 l 1.39184,-2.09007 c 3.64105,-6.84778 5.617402,-10.11271 7.207536,-13.22772 0.227066,-0.44481 0.358827,-0.69412 0.39534,-0.74779 0.285328,0.003 17.024611,-1.46468 17.229621,-1.46998 0.16277,-0.004 -18.115031,24.26851 -18.377419,24.73269 6.399833,5.82605 12.315759,12.1762 18.357489,18.47998 -3.22576,3.42296 -4.13196,4.15829 -9.092323,8.44353 -2.46345,-1.713 -10.382152,-11.84173 -15.955902,-17.82291 -0.145938,0.21553 -0.30226,0.43107 -0.469015,0.64882 -0.169218,0.19375 -0.326871,0.39792 -0.472765,0.61283 l 0.672253,24.40911 c 0.0015,0.21838 -0.01847,0.43961 -0.05628,0.66376 -0.01852,0.22121 -0.137312,0.39602 -0.355745,0.52357 l -8.390851,4.57904 c -0.218388,0.12742 -0.506926,0.28991 -0.865668,0.48582 -0.358731,0.19612 -0.714628,0.31928 -1.067759,0.36807 -0.311509,0.0427 -0.581311,-0.01 -0.809257,-0.17812 -0.227966,-0.16247 -0.368452,-0.49487 -0.421555,-0.99756 -0.584848,-10.55207 -0.605592,-20.79634 -1.131703,-31.35412 -0.374284,-8.7026 -0.794,-17.40228 -1.20738,-26.10245 -0.02466,-0.43392 -0.04172,-0.79573 -0.0514,-1.08591 -0.01043,-0.29039 -0.004,-0.53388 0.01849,-0.73126 0.02134,-0.19707 0.119293,-0.5288 0.213078,-0.63912 0.09369,-0.1099 0.241904,-0.20371 0.444645,-0.28092 l 10.465766,-4.49219 c 0.259875,-0.13359 0.53529,-0.22027 0.826087,-0.26196 0.290788,-0.0427 0.49951,0.0379 0.626115,0.23969 0.124082,0.1767 0.218958,0.5766 0.284673,1.19893 z"
+       id="path46"
+       aria-label="K "
+       sodipodi:nodetypes="cccccscsccccccccccssscccccsccsccc"
+       inkscape:export-filename="..\..\..\Desktop\Ok Media\Logo-icon.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="font-size:31.75px;line-height:0.8;font-family:'Carter One';-inkscape-font-specification:'Carter One';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:1.83635"
+       d="m 52.45688,289.33397 c 0,1.58727 0.124983,3.18568 0.374948,4.79507 0.266607,1.58733 0.699864,3.02028 1.299751,4.29904 0.599888,1.2786 1.391398,2.31479 2.374558,3.10842 0.983152,0.7937 2.199578,1.19051 3.649304,1.19051 1.116469,-0.0881 2.091289,-0.38607 2.924471,-0.89288 5.955392,-3.70784 5.652684,-16.0507 4.799071,-19.97388 -0.963062,-4.49312 -3.512813,-7.63901 -7.073681,-7.63901 -4.975445,0 -6.926841,6.64773 -7.473616,8.69725 -0.283249,1.10235 -0.499892,2.21559 -0.649866,3.34001 -0.133328,1.10232 -0.208335,2.12749 -0.224977,3.07547 z m 4.874094,24.27292 c -10.075617,0 -15.897027,-10.75335 -15.897027,-22.95017 0,-3.46123 0.366603,-6.64692 1.099793,-9.55705 0.749863,-2.93217 1.791332,-5.5226 3.124425,-7.77131 4.05122,-6.90084 11.961753,-12.72252 21.096057,-10.94595 2.582861,1.0582 4.774114,2.5794 6.573781,4.56353 1.799663,1.9842 3.1744,4.49752 4.124222,7.53991 0.966487,3.02028 1.44973,6.71302 1.44973,11.07822 0,2.7998 -0.258311,5.43438 -0.774853,7.9036 -0.516572,2.46911 -1.241437,4.7509 -2.17459,6.84532 -0.933162,2.07229 -2.057953,3.93523 -3.374378,5.58876 -1.299755,1.63139 -2.749486,3.02033 -4.34919,4.16663 -1.599705,1.1465 -3.324378,2.01731 -5.174037,2.61256 -1.83299,0.61728 -3.740969,0.92595 -5.723933,0.92595 z"
+       id="path47"
+       aria-label="O "
+       sodipodi:nodetypes="scsscccsccsssscccscssccscs"
+       inkscape:export-filename="logo-okmedia-pequeño.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
