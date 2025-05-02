@@ -1,9 +1,9 @@
 const headerNavLinks = [
   { href: '/', title: 'Home' },
   { href: '/blog', title: 'Blog' },
-  { href: '/tags', title: 'Tags' },
-  { href: '/projects', title: 'Projects' },
-  { href: '/about', title: 'About' },
+  { href: '/tags', title: 'Servicos' },
+  { href: '/projects', title: 'Sobre Ok Media' },
+  { href: '/about', title: 'Contacto' },
 ]
 
 export default headerNavLinks
